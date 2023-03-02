@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "udacitydatafactory"
+		},
+		"ls_datalake_ade32_accountKey": {
+			"value": ""
+		},
+		"ls_sqldb_ade32_connectionString": {
+			"value": ""
+		},
+		"ls_synapse_ade32_connectionString": {
+			"value": ""
+		},
+		"ls_datalake_ade32_properties_typeProperties_url": {
+			"value": "https://adlsnycpayrolladame.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
