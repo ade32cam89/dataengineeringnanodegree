@@ -1,0 +1,9 @@
+{
+	"name": "udacitydatafactory",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c88ce563-ae50-49ab-9288-731d4beb1d16",
+		"tenantId": "8879d453-5e3e-4f6c-854a-1a5f6975fc5d"
+	}
+}
